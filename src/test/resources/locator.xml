@@ -1,0 +1,11 @@
+<?xml version=1.0?>
+<Locators>
+<txt_serach>
+<type>xpath</type>
+<value>//input[@name="q"]</value>
+</txt_search>
+<btn_search>
+<type>xpath</type>
+<value>//div[@class="FPdoLc lJ9FBc"]//*[@name="btnK"]</value>
+</btn_search>
+</locators>
