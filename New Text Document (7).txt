@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 abcde
 acde
+=======
+abcde
+>>>>>>> 05bc95f2a9dfc04e543d9cfce1632c328fe13163
